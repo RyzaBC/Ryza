@@ -144,7 +144,7 @@ section {
 }
 
 .about-container p {
-    font-size: 30px;
+    font-size: 25px;
     color: rgb(233, 206, 211);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -188,6 +188,10 @@ footer {
         gap: 4rem;
         padding: 100px 20px;
     }
+    .about-container p {
+    font-size: 20px;
+    color: rgb(233, 206, 211);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 @media only screen and (max-width: 1700px) {
     .services-container {
